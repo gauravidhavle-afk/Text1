@@ -1,0 +1,4 @@
+This repository is created for learning and practice purposes.
+
+It will contain my notes, experiments, and progress updates.
+
